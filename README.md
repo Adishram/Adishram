@@ -79,16 +79,6 @@ $ echo $PHILOSOPHY
 
 ---
 
-### 📊 Skill Radar
-
-```
-Security Engineering  ████████████████████  🔥 Core strength
-Full-Stack Dev        ███████████████████░  
-Machine Learning      ████████████████░░░░  
-Systems / Infra       ███████████████░░░░░  
-Smart Contracts       ████████████░░░░░░░░  
-```
-
 **Languages**
 
 <p>
