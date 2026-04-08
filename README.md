@@ -89,12 +89,23 @@ Systems / Infra       ███████████████░░░░�
 Smart Contracts       ████████████░░░░░░░░  
 ```
 
-**Top languages by vibe:**
+**Languages**
 
-![Python](https://img.shields.io/badge/Python-Most%20Used-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Daily%20Driver-3178C6?style=flat&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-Learning%20%26%20Loving-000000?style=flat&logo=rust&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-ML%20Experiments-9558B2?style=flat&logo=julia&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,rust,java,swift" />
+</p>
+
+**Frameworks & Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,electron,nodejs" />
+</p>
+
+**Infra & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,redis,git,github,bash" />
+</p>
 
 ---
 
