@@ -29,8 +29,6 @@
     <img src="https://www.gitskins.com/api/section/projects?username=Adishram&theme=github-dark" alt="Adishram projects section" />
   </picture>
 </p>
-## Heatmap
-Animated year-long contribution calendar.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=Adishram&theme=github-dark&mode=light" />
